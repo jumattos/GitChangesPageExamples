@@ -1,0 +1,3 @@
+[submodule "tester-game"]
+	path = tester-game
+	url = https://github.com/jumattos/tester-game.git
