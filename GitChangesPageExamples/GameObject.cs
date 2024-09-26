@@ -14,12 +14,12 @@ namespace game
 
         public void interact()
         {
-            Console.WriteLine("Interacting with GameObject");
+            throw new NotImplementedException();
         }
 
         public void draw()
         {
-            Console.WriteLine($"Drawing GameObject at position: {this.posX} {this.posY}");
+            throw new NotImplementedException();
         }
     }
 }
