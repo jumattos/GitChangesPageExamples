@@ -18,13 +18,7 @@ namespace GitChangesPageExamples
 
         static void ChangesGoHere()
         {
-            Console.WriteLine("AAAAA");
-            Console.WriteLine("BBBBB");
-            Console.WriteLine("CCCCC");
-            Console.WriteLine("DDDDD");
-            Console.WriteLine("EEEEE");
-            Console.WriteLine("FFFFF");
-            Console.WriteLine("GGGGG");
+            FileA.ChangesGoHere();
         }
     }
 }

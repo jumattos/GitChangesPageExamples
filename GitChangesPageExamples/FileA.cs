@@ -8,7 +8,7 @@ namespace GitChangesPageExamples
         // ChangesGoHere()
         // Seen Below...
 
-        static void ChangesGoHere()
+        internal static void ChangesGoHere()
         {
             Console.WriteLine("AAAAA");
             Console.WriteLine("BBBBB");
